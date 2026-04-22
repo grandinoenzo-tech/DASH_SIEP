@@ -752,3 +752,4 @@ with abas[7]:
         resumo.columns = ["Ano", "Média", "Mínimo", "Máximo"]
         st.subheader("Resumo Estatístico por Ano")
         st.dataframe(resumo, use_container_width=True)
+# ok
