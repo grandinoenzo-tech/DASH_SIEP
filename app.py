@@ -753,3 +753,4 @@ with abas[7]:
         st.subheader("Resumo Estatístico por Ano")
         st.dataframe(resumo, use_container_width=True)
 # ok
+#ok 
